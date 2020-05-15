@@ -7,6 +7,15 @@
 <link rel="stylesheet" href="jemdoc.css" type="text/css" />
 <link rel="stylesheet" href="jacob.css" type="text/css" />
 <title>Research</title>
+<!-- MathJax -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async>
+</script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+	  TeX: { equationNumbers: { autoNumber: "AMS" } }
+});
+</script>
+<!-- End MathJax -->
 </head>
 <body>
 <table summary="Table for page layout." id="tlayout">
@@ -30,47 +39,22 @@
 <li><p>Applications: supply chain management, critical interdependent infrastructure systems, social network analytics</p>
 </li>
 </ul>
-<h3>Research Projects</h3>
-<p>Collaborative Research: RIPS Type 2: Vulnerability Assessment and Resilient Design of Interdependent Infrastructures (NSF Grant EFMA #1441231)</p>
-<ul>
-<li><p>Developed a novel mixed-integer program model for mitigating failure propagation in interdependent networks</p>
-</li>
-<li><p>Derived a polynomial class valid inequalities and strong formulation from the substructure of the model</p>
-</li>
-<li><p>Demonstrated the computational efficiency and efficacy of polyhedral enhancement by Python/Gurobi compared with default Gurobi settings</p>
-</li>
-</ul>
-<p>Modeling and Optimization of Networked Systems in Contested Environments (Air Force Research Laboratory/Eglin AFB Grant)</p>
-<ul>
-<li><p>Studied polyhedral structure of single and dual deterministic threshold models for influence maximization problem</p>
-</li>
-<li><p>Proposed valid inequalities and exact polynomial time dynamic programming recursion for the separation problem</p>
-</li>
-</ul>
 <h3>Research Papers</h3>
-<p>Failure Mitigation and Restoration in Interdependent Networks via Mixed-integer Optimization</p>
+<p>C. Chen, Q. Zheng, A. Veremyev, E. Pasiliao, and V. Boginsk. Failure Mitigation and Restoration in Interdependent Networks via Mixed-integer Optimization.</p>
 <ul>
-<li><p>with Q. Zheng, A. Veremyev, E. Pasiliao and V. Boginski</p>
+<li><p>Revise and resubmit at IEEE Transactions on Network Science and Engineering.</p>
 </li>
-<li><p>under review</p>
+<li><p>We propose a new optimization model for determining optimal mitigation and restoration strategies for coupled interdependent networks in the context of preserving and/or restoring the maximum flow through the entire networked system, subject to cascading node failures that may be caused by disruptions of a subset of &lsquo;&lsquo;seed nodes&rsquo;&rsquo; at an initial time step. Previous related studies mainly focused on &lsquo;&lsquo;static&ldquo; strategies to mitigate cascading failures. However, our model allows one to identify &lsquo;&lsquo;dynamic&rdquo; strategies for step-by-step failure propagation, given initial seed node disruptions. Moreover, the proposed model accounts for backup arc capacity and node fortification to mitigate the impact of further failure cascades on network performance. The objective is to restore network performance during a finite recovery planning horizon at total minimal cost. We formulate this problem by mixed-integer optimization, and derive valid inequalities using the substructure of the problem. We report a summary of computational experiments to demonstrate the strength and effectiveness of the inequalities when compared to solving the problem with a commercial optimization solver. </p>
 </li>
 </ul>
-<p>On Polyhedra of Two Influence Maximization Problems in Social Networks</p>
+<p>C. Chen, E. Pasiliao, and V. Boginsk. Mixed 0-1 Knapsack Cover Inequalities for Least Cost Influence Maximization. </p>
 <ul>
-<li><p>with E. Pasiliao and V. Boginski</p>
-</li>
-<li><p>working paper</p>
-</li>
-</ul>
-<h3>Dissertations</h3>
-<p>Fix-and-Optimize Heuristic and MP-based Approaches for Capacitated Lot Sizing Problem with Setup Carryover, Setup Splitting and Backlogging</p>
-<ul>
-<li><p>M.S. Thesis, Arizona State University, 2015</p>
+<li><p>Working paper. </p>
 </li>
 </ul>
 <div id="footer">
 <div id="footer-text">
-Page generated 2020-01-30 12:03:55 EST, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+Page generated 2020-05-15 18:25:47 EDT, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
 </div>
 </div>
 </td>
