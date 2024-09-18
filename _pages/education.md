@@ -12,6 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D in Industrial Engineering, University of Central Florida, Orlando, FL
+  * Dissertation: Mixed-integer Programming Methods for Modeling and Optimization of Cascading Processes in Complex Networked Systems
+  * Advisor: Vladimir Boginski
 * M.S. in Operations Research, The Ohio State University, Columbus, OH
 * M.S. in Industrial Engineering, Arizona State University, Tempe, AZ
 * Bachelor of Business Administration, Soochow University, Taiwan
