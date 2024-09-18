@@ -12,7 +12,7 @@ title                    : "Leo (Cheng-Lung) Chen"
 title_separator          : "-"
 name                     : &name "Leo (Cheng-Lung) Chen"
 description              : &description "Seinor Operations Research Developer at Southwest Airlines"
-url                      : https://leochenOR.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://chenglung9.github.io/leochenOR.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chenglung9.github.io"
 
