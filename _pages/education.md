@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Education"
+title: ""
 permalink: /education/
 author_profile: true
 redirect_from:
@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Education
+======
 * Ph.D in Industrial Engineering, University of Central Florida, Orlando, FL
   * Dissertation: Mixed-integer Programming Methods for Modeling and Optimization of Cascading Processes in Complex Networked Systems
   * Advisor: Vladimir Boginski
