@@ -27,6 +27,6 @@ Honors and Awards
 * Graduate Presentation Fellowship, College of Graduate Studies, University of Central Florida, 2018, 2019, 2020, 2021
 * The Marian and Gary Whitehouse IEMS Foundation Scholarship, University of Central Florida, 2018, 2019
   
-Service and leadership
+Service
 ======
 * Ad-hoc Journal Reviewer: Energy Systems, Optimization Letters, IEEE Transactions on Power Systems, Computer and Industrial Engineering
