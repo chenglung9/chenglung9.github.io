@@ -1,11 +1,14 @@
 ---
 permalink: /
-title: "About Me"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+<span style="color: #FFBF27;">About Me</span>
+=======
 
 My name is Leo (Cheng-Lung) Chen. I am a senior operations research developer at Southwest Airlines. Previously I was an operations research consultant at American Airlines. 
 
