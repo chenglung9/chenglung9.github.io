@@ -11,9 +11,9 @@ redirect_from:
 
 <span style="color: #FFBF27;">Education</span>
 ======
-* Ph.D in Industrial Engineering, University of Central Florida, Orlando, FL
 
-  * Dissertation:[Mixed-integer Programming Methods for Modeling and Optimization of Cascading Processes in Complex Networked Systems](https://stars.library.ucf.edu/etd2020/987/)
+* Ph.D in Industrial Engineering, University of Central Florida, Orlando, FL
+  * Dissertation: [Mixed-integer Programming Methods for Modeling and Optimization of Cascading Processes in Complex Networked Systems](https://stars.library.ucf.edu/etd2020/987/)
   * Advisor: Vladimir Boginski
 * M.S. in Operations Research, The Ohio State University, Columbus, OH
 * M.S. in Industrial Engineering, Arizona State University, Tempe, AZ
@@ -21,6 +21,7 @@ redirect_from:
 
 <span style="color: #FFBF27;">Honors and Awards</span>
 ======
+
 * INFORMS Bonder Award for Doctoral Student Colloquium, Seth Bonder Foundation, 2021
 * David T. & Jane M. Donaldson Memorial Scholarship, CECS, University of Central Florida, 2020
 * Curricular Practical Training Scholarship, Global International Student Office, University of Central Florida, 2020
