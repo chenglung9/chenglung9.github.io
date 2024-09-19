@@ -15,6 +15,7 @@ redirect_from:
 * Ph.D in Industrial Engineering, University of Central Florida, Orlando, FL
   * Dissertation: [Mixed-integer Programming Methods for Modeling and Optimization of Cascading Processes in Complex Networked Systems](https://stars.library.ucf.edu/etd2020/987/)
   * Advisor: Vladimir Boginski
+  * Supported by NSF EFMA #1441231 [Collaborative Research: RIPS Type 2: Vulnerability Assessment and Resilient Design of Interdependent Infrastructures](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1441231) and Air Force Research Laboratory award FA8651-16-2-0009 Modeling and Optimization of Networked Systems in Contested Environments.
 * M.S. in Operations Research, The Ohio State University, Columbus, OH
 * M.S. in Industrial Engineering, Arizona State University, Tempe, AZ
 * Bachelor of Business Administration, Soochow University, Taiwan
