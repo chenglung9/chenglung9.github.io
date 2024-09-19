@@ -28,7 +28,8 @@ Employment
 
 Technical Skills
 ======
-- Programming: Python, C++, SQL
+- Programming: Python, C++
 - Optimization tools: AMPL, GAMS, IBM ILOG CPLEX, Gurobi, Xpress
 - Developer platforms: Visual Studio, VSCode, Github, Linux
 - Data engineering: Azure Databricks, Azure Machine Learning Studio
+- Data query and visualizaiton: Tableau, SQL
