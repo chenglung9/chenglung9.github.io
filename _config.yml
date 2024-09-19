@@ -4,7 +4,7 @@ title                    : "Leo Chen"
 title_separator          : "-"
 name                     : &name "Leo Chen"
 description              : &description "Seinor Operations Research Developer"
-url                      : https://chenglung9.github.io/leochenOR # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://chenglung9.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chenglung9.github.io"
 
