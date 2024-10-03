@@ -15,7 +15,7 @@ redirect_from:
 
 **Operations Research Consultant, American Airlines**  Jun 2022 - Aug 2024
 * Enhance the mathematical optimization engine's computational performance for the crew recovery system used in airline disruption management.
-* Improve crew recovery performance through meticulous maintenance and deployment of new features, resulting in an impressive 40% improvement in 2023.
+* Improve crew recovery optimizer performance through meticulous maintenance and deployment of new features, enhancing the [resilience against 2022 winter storm Elliott](https://businesstravelerusa.com/news/american-airlines-coo-thanks-staff-over-remarkable-performance-in-december/) as well as resulting in an impressive 40% improvement in 2023.
 * Serve as university visit ambassador/capstone project advisor to strengthen the university relationship and increase the quantity and quality of job candidate pipeline.
 * Relevant skills: C++, Python, Operations Research, DevOps, Agile Software Development
 
