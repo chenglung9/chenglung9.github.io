@@ -11,13 +11,13 @@ redirect_from:
 ======
 
 **Senior Operations Research Developer, Southwest Airlines**  Sep 2024 - Now
-* Optimization for real-time aircraft routing to obtain on-time performance leap
+* Mathematical optimization for day-ahead aircraft route planning and real-time aircraft reassignment to minimize the cost and impact against operational disruption.
+* Relevant skills: C++, Operations Research, Agile Software Development, Git, Amazon EC2
 
 **Operations Research Consultant, American Airlines**  Jun 2022 - Aug 2024
 * Enhance the mathematical optimization engine's computational performance for the crew recovery system used in airline disruption management.
 * Improve crew recovery optimizer performance through meticulous maintenance and deployment of new features, enhancing the [resilience against 2022 winter storm Elliott](https://businesstravelerusa.com/news/american-airlines-coo-thanks-staff-over-remarkable-performance-in-december/) as well as resulting in an impressive 40% improvement in 2023.
 * Serve as university visit ambassador/capstone project advisor to strengthen the university relationship and increase the quantity and quality of job candidate pipeline.
-* Relevant skills: C++, Python, Operations Research, DevOps, Agile Software Development
 
 **Research Intern, Mitsubishi Electric Research Laboratories**  Dec 2020 - Apr 2021
 * Develope a risk-constrained virtual power plant energy optimization model with novel bidding strategies. 
