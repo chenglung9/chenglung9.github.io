@@ -13,7 +13,7 @@ author:
   # Biographic information
   avatar           : "leo.png"
   name             : "Leo Chen"
-  pronouns         : "He/Him"  
+  pronouns         : #"He/Him"  
   bio              : "Senior Operations Research Developer"
   location         : "Dallas, Texas"
   employer         : "Southwest Airlines Co."
