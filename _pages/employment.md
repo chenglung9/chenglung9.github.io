@@ -11,7 +11,7 @@ redirect_from:
 ======
 
 **Senior Operations Research Developer, Southwest Airlines**  Sep 2024 - Now
-* Mathematical optimization for day-ahead aircraft route planning and real-time aircraft reassignment to minimize the cost and impact against operational disruption.
+* Maintain the codebase, develop features and algorithmic innovations for the mathematical optimization engine used for day-ahead aircraft route planning and real-time aircraft reassignment to minimize the cost and impact against operational disruption.
 * Relevant skills: C++, Operations Research, SAFe: Scaled Agile Framework, Gitlab, Amazon EC2 and S3
 
 **Operations Research Consultant, American Airlines**  Jun 2022 - Aug 2024
