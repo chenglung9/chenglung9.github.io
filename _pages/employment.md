@@ -22,7 +22,6 @@ redirect_from:
 **Research Intern, Mitsubishi Electric Research Laboratories**  Dec 2020 - Apr 2021
 * Develope a risk-constrained virtual power plant energy optimization model with novel bidding strategies. 
 * Conduct numerical studies to demonstrate the benefit and efficacy of the proposed model.
-* Summarize the result in a technical report with title _Risk-constrained Stochastic Portfolio Optimization of Virtual Power Plants in Pool and Future Markets_.
 
 **Visiting Research Associate, Eglin Air Force Research Laboratory** May 2018 - Aug 2018
 * Develop the mathematical model formulation strength and implement stochastic dual dynamic integer programming algorithm for Two-Stage Stochastic Interdependent Networks Mitigation and Restoration.
