@@ -30,7 +30,3 @@ redirect_from:
 * Gerald R. Langston Endowed Scholarship, CECS, University of Central Florida, 2019
 * Graduate Presentation Fellowship, College of Graduate Studies, University of Central Florida, 2018, 2019, 2020, 2021
 * The Marian and Gary Whitehouse IEMS Foundation Scholarship, University of Central Florida, 2018, 2019
-  
-<span style="color: #FFBF27;">Service</span>
-======
-* Ad-hoc Journal Reviewer: Energy Systems, Optimization Letters, IEEE Transactions on Power Systems, Computer and Industrial Engineering
