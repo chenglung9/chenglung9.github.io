@@ -21,6 +21,19 @@ redirect_from:
 * M.S. in Industrial Engineering, Arizona State University, Tempe, AZ
 * Bachelor of Business Administration, Soochow University, Taiwan
 
+<span style="color: #FFBF27;">Teaching</span>
+======
+I have been appointed in several teaching roles through my graduate school era, including
+* Instructor - University of Central Florida
+  * STA3032 Honor Probability and Statistics for Engineers, Fall 2019
+  * ESI4312 Deterministic Methods for Operations Research, Fall 2018
+
+* Guest Lecture - University of Central Florida
+  * ESI4313 Stochastic Methods for Operations Research, Spring 2018
+
+* Graduate Teaching Associate - The Ohio State University
+  * ISE 4100 Stochastic Modeling and Simulation, Spring 2016, Fall 2016, Spring 2017
+
 <span style="color: #FFBF27;">Honors and Awards</span>
 ======
 
