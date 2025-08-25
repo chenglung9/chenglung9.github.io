@@ -13,7 +13,7 @@ redirect_from:
 **Senior Operations Research Developer, Southwest Airlines**  Sep 2024 - Now
 
 *Aircraft Assignment, Route Planning and Recovery Optimization Under Disruption*
-* Enhanced Southwest Airlines’ real-time operations recovery optimization system (Baker) by tailoring solution metrics to six irregular-operation scenarios and four solution profiles, enabling faster and more informed decision-making for operations controllers.
+* Enhanced Southwest Airlines’ real-time aircraft recovery optimization system (Baker) by tailoring solution metrics to six irregular-operation scenarios and four solution profiles, enabling faster and more informed decision-making for operations controllers.
 * Improved visibility of crew impacts within recovery solutions by introducing new metrics (duty/rest violations, insufficient connection time, cascading crew availability after cancellations), strengthening reliability and reducing risk of uncovered flights.
 * Designed and implemented a fuel-efficiency–aware tail assignment algorithm, assigning long-haul flights to lower fuel-bias aircraft. This innovation reduced delays and passenger displacement, improved on-time maintenance compliance, and lowered fuel consumption and costs while contributing to environmental sustainability goals.
 * Relevant skills: Operations Research, C++, Gitlab, Amazon Web Services, Scaled Agile Framework
